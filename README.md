@@ -4,7 +4,7 @@ This is a Streamlit web app that lets users **draw digits and mathematical opera
 
 ## Demo
 
-[Click here to try the app!]([https://your-streamlit-cloud-url](https://handwrittendigitcalculator-ntvbdflgmrhdvexh42lcbz.streamlit.app/))
+[Click here to try the app!](https://your-streamlit-cloud-url](https://handwrittendigitcalculator-ntvbdflgmrhdvexh42lcbz.streamlit.app/)
 
 ## How It Works
 
