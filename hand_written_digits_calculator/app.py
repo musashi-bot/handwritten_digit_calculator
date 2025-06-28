@@ -52,7 +52,7 @@ class cnn(nn.Module):
 
         return x
 model = cnn(1)
-model.load_state_dict(torch.load("digit_model.pth", map_location=torch.device("cpu")))
+model.load_state_dict(torch.load("hand_written_digits_calculator/digit_model.pth", map_location=torch.device("cpu")))
 model.eval()
 
 st.set_page_config(layout="wide")
