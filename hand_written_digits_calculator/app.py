@@ -65,7 +65,7 @@ col1, col2, col3 = st.columns(3)
 
 canvas_settings = {
     "fill_color": "black",
-    "stroke_width": 15,
+    "stroke_width": 10,
     "stroke_color": "white",
     "background_color": "black",
     "height": 200,
